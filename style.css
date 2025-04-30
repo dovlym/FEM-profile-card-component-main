@@ -8,7 +8,6 @@
     --secundary-color-font:hsl(227, 10%, 46%);
     --neutral-white:hsl(0, 0%, 100%);
     --neutral-gray:hsl(0, 0%, 59%);
-    --neutral-dark-white: hsla(0, 0%, 100%, 0.75);
     --primary-font-family: 'Kumbh Sans', sans-serif;
 }
 
@@ -102,7 +101,9 @@ footer{
 .attribution { 
     font-size: 11px; 
     text-align: center;
+    font-weight: 400;
 }
 .attribution a { 
-    color:var(--neutral-dark-white);
+    color:var(--neutral-dark-font);
+    font-weight: 700;
 }
