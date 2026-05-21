@@ -39,7 +39,7 @@ Users should be able to:
 
 ### Links
 
-[My Solution](https://dovelm.github.io/FEM-profile-card-component-main)
+[My Solution](https://dovlym.github.io/FEM-profile-card-component-main)
 
 
 ## My process
